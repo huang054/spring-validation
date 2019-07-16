@@ -11,7 +11,7 @@ public class MyCardsConstraintValidator implements ConstraintValidator<MyCardsVa
 
     @Override
     public void initialize(MyCardsValidation constraintAnnotation) {
-
+      //这里是从注解传值进来，如果需要可以实现
     }
 
     @Override
